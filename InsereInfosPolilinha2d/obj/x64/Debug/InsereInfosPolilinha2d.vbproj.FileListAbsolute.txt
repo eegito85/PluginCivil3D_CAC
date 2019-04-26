@@ -1,0 +1,21 @@
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.pdb
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.xml
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.vbprojResolveAssemblyReference.cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.Resources.resources
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.vbproj.GenerateResource.Cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.xml
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.pdb
+C:\Users\emmanuel\documents\visual studio 2010\Projects\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.FormPlanilhaDados.resources
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.dll
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.pdb
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\bin\x64\Debug\InsereInfosPolilinha2d.xml
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.FormPlanilhaDados.resources
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.Resources.resources
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.dll
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.xml
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\InsereInfosPolilinha2d\obj\x64\Debug\InsereInfosPolilinha2d.pdb

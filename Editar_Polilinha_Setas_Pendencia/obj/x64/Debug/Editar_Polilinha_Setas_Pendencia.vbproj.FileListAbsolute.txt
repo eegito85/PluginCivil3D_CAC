@@ -1,0 +1,19 @@
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.vbprojResolveAssemblyReference.cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha.Resources.resources
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.vbproj.GenerateResource.Cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.pdb
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.xml
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.xml
+C:\Users\emmanuel\documents\visual studio 2010\Projects\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.pdb
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.dll
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.pdb
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\bin\x64\Debug\Editar_Polilinha_Setas_Pendencia.xml
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha.Resources.resources
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.dll
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.xml
+C:\Users\emmanuel\Documents\Emmanuel\Projetos_VB.NET_VBA\Editar_Polilinha_Setas_Pendencia\obj\x64\Debug\Editar_Polilinha_Setas_Pendencia.pdb
